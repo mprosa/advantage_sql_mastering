@@ -6,7 +6,7 @@
 # - explore: d_individual_profile
 # - explore: d_postal_code
 - explore: dq_individual_match_in
-  label: 'PII Matching Signals'
+  label: 'Matching Signals - PII'
 
 
 #- explore: d_address

@@ -199,6 +199,7 @@
     sql: ${TABLE}.POPULATION
 
   - dimension: postal_cd
+    hidden: true
     type: number
     sql: ${TABLE}.POSTAL_CD
 
